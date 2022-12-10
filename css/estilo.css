@@ -1,0 +1,344 @@
+p{
+	font-family: sans-serif;
+	font-size: 3vh;
+	color: #72706E;
+}body{
+	background-color: #F5F5F5;
+}.ima{
+	width: auto;
+	height: 100%;
+}.A{
+	width: 100%;
+	height: 8vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}.A1{
+	width: 25%;
+	height: 8vh;
+	padding-left: 2vw;  
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+}.AUm{
+	width: 100%;
+	height: 2.5vh;
+	font-family: serif;
+	font-size: 100%;
+	color: #72706E;
+}.A2{
+	width:56%;
+	height:8vh;
+}.A3{
+	width: 15%;
+	height: 8vh;
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 1vh;
+	margin-top: 1vh;
+}.ADois{
+	width: 37%;
+	height: 80%;
+	margin-left: 1vw;
+}.ATres{
+	width: 37%;
+	height: 80%;
+	margin-left: 1vw;
+}.AQuatro{
+	width: 37%;
+	height: 80%;
+	margin-left: 1vw;
+}.B{
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	width: 100%;
+	height: 50vh;
+}.B1{
+	width:75%;
+	height: 50vh;
+	padding-right: 1.5vw;
+	padding-left: 2vw; 
+}#logo{
+	width: 15vw;
+	height: auto;
+	padding-top: 8vh;
+}.BUm{
+	width:100%;
+	height: 46.5vh;
+	background-color: #8A1739;
+	margin-bottom: 2.5vh;
+	margin-top: 1.5vh;
+text-align: center;	
+}.B2{
+	width:25%;
+	height: 50vh;
+}.B2Um{
+	width:70%;
+	height: 45%;
+	padding-right: 2vw;
+	margin-left: 3vw;
+	margin-top: 1.5vh;
+	margin-bottom: 1.5vh;
+}.B2Dois{
+	width: 70%;
+	height: 45%;
+	padding-right: 2vw;
+	margin-left: 3vw;
+	margin-top: 1.5vh;
+	margin-bottom: 1.5vh;
+}.c1, .c2, .c3{
+	text-align: center;
+}.C{
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	width: 100%;
+	height: 90vh;
+}.C1{
+	padding-left: 2vw;
+	width: 20%;
+	height: auto;
+	padding-bottom: 10vh;
+	padding-top: 3vh;
+}.CUm{
+	width: 85%;
+	height: 85vh;
+}.C2{
+	width: 80%;
+	height: 90vh;
+	padding-right: 2vw;
+	display: block;
+	flex-wrap: wrap;
+	flex-direction: column;
+}.C2Um{
+	padding-top: 2.5vh;
+	width: 100%;
+	height: 10vh;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	margin-bottom: 2.5vh;
+}.C2Um1{	
+	width: auto;
+	height: 2vh;
+	margin-bottom:0.5vh; 
+	margin-top:0.5vh;
+	margin-right: 0.1vw; 
+	margin-left:2vw;	
+}.C2Um2{
+	width: auto;
+	height: 2vh;
+	margin-bottom:0.5vh; 
+	margin-top:1vh;
+	margin-left:2vw;
+	margin-right:0.1vw;
+}.C2Um3{
+	width: auto;
+	height: 2vh;
+	margin-bottom:0.5vh; 
+	margin-top:1vh;
+	margin-left:2vw;
+	margin-right:0.1vw;	
+}.C2Dois{
+	width: 100%;
+	height: 40vh;
+	display: block;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	margin-bottom: 2vh;
+}.UmC{
+	width: 100%;
+	height: 25vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}.c1{
+	width: 33%;
+	height: auto;
+	margin-right:2.25vw; 
+	margin-left:3.5vw;
+	margin-bottom: 3vh;
+	margin-top: 1.75vh;
+}.c2{
+	width: 33%;
+	height: auto;
+	margin-right:2.25vw; 
+	margin-left:3.5vw;
+	margin-bottom: 3vh;
+	margin-top: 1.75vh;
+}.c3{
+	width: 33%;
+	height: auto;
+	margin-right:2.25vw; 
+	margin-left:3.5vw;
+	margin-bottom: 3vh;
+	margin-top: 1.75vh;
+}.DoisC{
+	width: 100%;
+	height: 10vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	padding-bottom: 2vh;
+}.c4{
+	width: 33%;
+	height: auto;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: column;
+	margin-right:2vw; 
+	margin-left:2vw;
+}.c5{
+	width: 33%;
+	height: auto;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: column;
+	margin-right:2vw; 
+	margin-left:2vw;
+}.c6{
+	width: 33%;
+	height: auto;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: column;
+	margin-right:2vw; 
+	margin-left:2vw;
+}.C2Tres{
+	width: 100%;
+	height: 40vh;
+} .linha{
+	width:100%;
+	height:1.50vh;
+	padding-right:0.5vw; 
+	padding-left:0.5vw;	
+	padding-bottom: 1vh;
+
+}.n1{
+	color: #8A1739;
+	font-size:2.75vh;
+	text-align: center;	
+} .linha2{
+	width:100%;
+	height:1.50vh;
+	padding-right:0.5vw; 
+	padding-left:0.5vw;
+	padding-top: 1.5vh;
+	padding-bottom: 1.5vh;
+	text-align: center;
+}@media (max-width:700px){
+	.AQuatro, .ATres, .C1Um,.C1, .c3, .c6, .C2Tres{
+	display:none;
+}#logo{
+	width: auto;
+	height: 30vh;
+	padding: 0px;
+}p{
+	margin-top: 2.5vh;
+	margin-bottom: 2.5vh;
+	font-size: 2.3vh;
+} .AUm{
+	width: 100%;
+	height: 2vh;
+}.A3{
+	width: 15%;
+	height: 8vh;
+	padding-bottom: 2vh;
+}.ADois{
+	width: 80%;
+	height:5vh;
+	padding-bottom: 2vh;
+}.A2{
+	width:65%;
+	height:8vh;
+}.B{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	width: 100%;
+	height: 60vh;
+}.BUm{
+	width:100%;
+	height: 35vh;
+}.B1{
+	width: 100%;
+	height: 40vh;
+}.B2 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	width: 100%;
+	height: 20vh;
+	padding-right: 1.5vw;
+	padding-left: 2vw; 
+} .B2Um, .B2Dois{
+	width:50%;
+	height: 18vh;
+	padding: 0px;
+	margin: 0px;
+}.B2Dois{
+	margin-left: 15px;
+}body{
+	padding-top: 2vh;
+	padding-right: 1.5vw;
+	padding-left: 1.5vw;
+}.C{
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	width: 100%;
+	height: 55vh;
+}.C2Um{
+	height: 17vh;
+	width: 100%;
+	padding-top: 10px;
+}.C2Um1, .C2Um2, .C2Um3{
+	height: 3vh;
+	padding-bottom: 1.5vh;
+	padding-top: 1vh;
+} .C2{
+	height: 50vh;
+	width: 100%;
+}.UmC{
+	width: 100%;
+	height: 20vh;
+	padding-right: 1.5vw;
+	padding-left: 2vw; 
+	padding-top: 25px;
+} .C2Dois{
+	isplay: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	width: 100%;
+	height: 30vh;
+}.c1,.c2{
+	width:46.5%;
+	height: 18vh;
+	padding: 0px;
+	margin: 0px;
+}.c5,.c4{
+	width: 100%;
+	height: 6vh;
+}.c2, .c5 {
+	margin-left: 15px;	
+} .c5 {
+	margin: 0px;
+	margin-left: 10px;	
+} .DoisC {
+	padding-top: 2vh;
+	width: 100%;
+} .n1{
+	font-size: 12.5px;
+	padding-bottom: 5vh;
+} .titulo {
+	font-size: 15px;
+	margin-bottom: 5vh;
+} .linha2 {
+	margin-top: 2vh;
+} .n0 {
+	margin-top: 2vh;
+	width: auto;
+	height: 15vh;
+} .AUm{
+	padding-bottom: 10vh;
+}
